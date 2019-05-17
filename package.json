@@ -1,0 +1,23 @@
+{
+  "name": "node_schedule",
+  "version": "1.0.0",
+  "description": "Agendador de tarefas js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luizfmd/node_schedule.git"
+  },
+  "keywords": [
+    "#node",
+    "#ecmascript"
+  ],
+  "author": "Luiz Fernando Miranda Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luizfmd/node_schedule/issues"
+  },
+  "homepage": "https://github.com/Luizfmd/node_schedule#readme"
+}
